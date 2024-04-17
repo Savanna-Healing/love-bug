@@ -1,2 +1,2 @@
-# love-bug
-A little creature that walks on your webpage
+# Love Bug
+A little creature that walks on your webpage.
